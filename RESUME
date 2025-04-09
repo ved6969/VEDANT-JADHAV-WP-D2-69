@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+            <title> RESUME </title>
+  <style> table, th, td {border:1px solid black;}</style>
+   </head>
+   <h1><p style="text-align: center;color: gold;">RESUME</h1></p>
+
+ <h3 style="color:blue;"> PERSONAL INFORMATION </h3>
+ <p> NAME-Vedant Santosh Jadhav</p>  
+ <p> EMAIL-vedant3582@gmail.com </p> 
+ <p> MOBILE- 9765029837</p> 
+  
+ <h3 style="color:green;"> EDU DATA </h3>
+ <table> 
+ <tr> 
+ <th>Year wise  Educational qualification </th>
+ <th> marks </th> 
+ <th>Institution name</th>
+ </tr> 
+
+ <tr> 
+ <td> 1ST YR</td>
+ <td> 8.4 CGPA </td>
+ <td> Pimpri Chinchwad University</td> 
+ </tr>
+  
+ <tr> 
+ <td> 2ND YR</td>
+ <td> 8.9 CGPA </td> 
+ <td> Pimpri Chinchwad University</td>
+ </td>
+
+ <tr> 
+    <td> 3RD YR</td>
+    <td> 9.1 CGPA </td> 
+    <td> Pimpri Chinchwad University </td>
+    </td>
+
+    <tr> 
+        <td> 4TH YR</td>
+        <td> 9.3 CGPA </td> 
+        <td> Pimpri Chinchwad University </td>
+        </td>
+ </table>
+ 
+ <h3 style="color:blue;"> CAREER OBJECT </h3>
+ <p>  To work on a challenging job profile which provides an oppurtunity to enhance my technical skills and knowledge, this could provide me and insights into new aspects so that it would be helpful form my career</p>
+  
+  <h3 style="color:green;"> TECHNICAL PROFILE <h3> 
+    <li> Language: C programming, c++, java programming, net technology </li>
+    <li>Operating systems: Windows 2000/xp/windows 7& linux </li>
+    <li> MS office and front page </li>
+    <li> Web technologies: Html, css, javascript, asp, net </li>
+  
+  <h3 style="color:blue;">STRUCTURE</h3>
+  <li> Work with positive attitude and contribute towards the healthy functioning of the organisation</li>
+       <li> Self cofidence and great patience </li>
+       <li> Analyzing every angle of a project before working on it</li>
+       <li> Willingness to learn </li>
+       <li> Adaptability to change environment </li>
+     
+     </html>
+         
